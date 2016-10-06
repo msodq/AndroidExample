@@ -1,3 +1,3 @@
 Android Example
 ===========================
-Still process
+Just ecample - [Still process]
